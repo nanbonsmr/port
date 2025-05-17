@@ -7,7 +7,7 @@ const projects = [
     description: "This project is open-source used to help user to read summary insted of reading all content like blog, article and other.",
     image: "/projects/project1.png",
     tags: ["React", "TailwindCSS", "RapidAPI"],
-    demoUrl: "https://summez.netlify.app/",
+    demoUrl: "https://summx.netlify.app/",
     githubUrl: "https://githun.com/nanbonsmr/summery.git/",
   },
   {
